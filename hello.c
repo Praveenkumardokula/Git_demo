@@ -2,10 +2,7 @@
 int main()
 {
 int a=0;
-<<<<<<< HEAD
 printf("i am in master branch\n");
-=======
-printf("i am in development branch and master branch\n");
->>>>>>> development
+printf("demo of git rebase\n");
 return 0;
 }
